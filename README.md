@@ -13,6 +13,12 @@ Link do vídeo: **https://youtu.be/UiwPPRTgK_0**
 
 ---
 
+## 🔗 Repositório
+
+Repositório no GitHub: https://github.com/FIAP-AMANDABA/fiap-amandaba-dotnet (código-fonte, estrutura do projeto e README com instruções de uso e tecnologias — ver README.md na raiz do projeto)
+
+---
+
 ## 1. Problema de Negócio
 
 Dentro da jornada contínua de cuidado do pet, tutores frequentemente:
