@@ -9,7 +9,7 @@ Este documento descreve o componente de Inteligência Artificial integrado à so
 
 ## 🎥 Vídeo Pitch
 
-Link do vídeo: **[https://youtu.be/UiwPPRTgK_0]**
+Link do vídeo: **https://youtu.be/UiwPPRTgK_0**
 
 ---
 
