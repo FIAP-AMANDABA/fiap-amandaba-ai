@@ -9,14 +9,7 @@ Este documento descreve o componente de Inteligência Artificial integrado à so
 
 ## 🎥 Vídeo Pitch
 
-Link do vídeo (YouTube, não listado): **[ADICIONAR LINK DO VÍDEO NO YOUTUBE AQUI]**
-
-> ⚠️ O link informado (`https://drive.google.com/drive/u/0/home`) aponta para a raiz do Google Drive, e não para um vídeo publicado no YouTube. É necessário publicar o vídeo pitch (~5 minutos) no YouTube em modo **não listado** e substituir este link antes da entrega final, conforme exigido no enunciado.
-
-## 🔗 Repositório
-
-Repositório no GitHub: **[ADICIONAR LINK DO REPOSITÓRIO AQUI]**
-(código-fonte, estrutura do projeto e README com instruções de uso e tecnologias — ver `README.md` na raiz do projeto)
+Link do vídeo: **[https://youtu.be/UiwPPRTgK_0]**
 
 ---
 
